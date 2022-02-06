@@ -114,14 +114,6 @@ const data = {
   ],
 };
 
-// const options = {
-//   scales: {
-//     x: {
-//       type: "time",
-//     },
-//   },
-// };
-
 const App: React.FC = () => {
   return (
     <Chart
